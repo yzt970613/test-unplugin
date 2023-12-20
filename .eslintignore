@@ -1,0 +1,10 @@
+node_modules
+dist
+!*/**/themes/dist/
+**/*/router-interceptor/loader
+**/*/router-interceptor/plugin
+
+.eslintcache
+
+.tsc
+components.d.ts
